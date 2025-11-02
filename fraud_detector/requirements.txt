@@ -1,0 +1,7 @@
+catboost==1.2.8
+confluent-kafka==2.10.0
+geopy==2.4.1
+matplotlib==3.8.2
+numpy==1.26.4
+pandas==2.2.0
+scikit-learn==1.4.2
