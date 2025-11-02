@@ -66,7 +66,7 @@ real_time_fraud_detector/
 
 ### Installation
 
-1.  **Clone the repository** (or ensure you are in the project's root directory).
+1.  **Clone the repository:**
 
     ```bash
     git clone https://github.com/prNickinv/real_time_fraud_detector.git
